@@ -6,23 +6,6 @@ Este proyecto es una aplicación fullstack que permite realizar un CRUD de perso
 - Despliegue local usando Docker y Docker Compose.
 
 ---
-
-## 🧱 Estructura básica del proyecto
-
-prueba-tecnica/
-├── backend/
-│ ├── service.js
-│ ├── Dockerfile
-│ ├── db.js
-│ └── package.json
-├── frontend/
-│ ├── Dockerfile
-│ ├── public/
-│ ├── src/
-│ │ └── App.js
-│ └── package.json
-├── docker-compose.yml
-└── README.md
 ## 🚀 Cómo iniciar el proyecto localmente
 
 ### ✅ Requisitos
